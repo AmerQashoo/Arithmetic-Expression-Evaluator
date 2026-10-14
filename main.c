@@ -1,8 +1,3 @@
-/*
-ID:      1241585
-Namer:   Amer Qashoo.
-Section: 1
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
