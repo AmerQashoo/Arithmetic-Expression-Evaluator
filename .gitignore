@@ -1,0 +1,9 @@
+# Generated files
+output.txt
+*.exe
+*.o
+calculator
+
+# Editor files
+.vscode/
+.idea/
